@@ -36,7 +36,7 @@ async def getdocument(client, message):
                 url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}"),
         ]]))
     try:
-        shutil.rmtree(f"ıɱąɠɛ2ųཞƖ/{EX}")
+        shutil.rmtree(f"DevilxTelegraph/{EX}")
         shutil.rmtree(EX)
     except Exception:
         pass
