@@ -9,8 +9,7 @@ from pyrogram import Client, filters
 
 joinButton = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton(
-            text="😈 𝙾𝙽𝚆𝙴𝚁 😈",url="http://t.me/mrdevil12"
+        InlineKeyboardButton(text="😈 𝙾𝙽𝚆𝙴𝚁 😈",url="http://t.me/mrdevil12"
         ),
     ],
     [
