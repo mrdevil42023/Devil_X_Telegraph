@@ -11,14 +11,14 @@ API_ID = Vauth.API_ID
 API_HASH = Vauth.API_HASH
 
 PLUGINS = dict(
-    root="ignite",
+    root="Devil",
 )
 
 
 EX = "HENTAI"
 
 ʍǟֆȶɛʀʍɨռɖ = mapple(
-    "Krakinz",
+    "mrdevil12",
     bot_token=BOT_TOKEN,
     api_id=API_ID,
     api_hash=API_HASH,
@@ -33,7 +33,7 @@ except Exception:
 idle()
 ʍǟֆȶɛʀʍɨռɖ.stop()
 try:
-    shutil.rmtree(f"ıɱąɠɛ2ųཞƖ/{EX}")
+    shutil.rmtree(f"DevilxTelegraph/{EX}")
     shutil.rmtree(EX)
 except Exception:
     pass
