@@ -1,1 +1,1 @@
-worker: python3 -m ıɱąɠɛ2ųཞƖ
+worker: python3 -m DevilxTelegraph
