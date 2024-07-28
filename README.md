@@ -4,7 +4,7 @@
 
   # 🔥『  𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗣𝗛 𝗕𝗢𝗧 』🔥
 <p align="center">
-  <img src="https://graph.org/file/5184a670042b456f1085f.jpg">
+  <img src="https://graph.org/file/b609a772e749668d82661.jpg">
 
 
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
