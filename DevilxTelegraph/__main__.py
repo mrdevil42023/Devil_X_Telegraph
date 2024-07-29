@@ -27,7 +27,7 @@ EX = "HENTAI"
 )
 ʍǟֆȶɛʀʍɨռɖ.start()
 try:
-    shutil.rmtree(f"ıɱąɠɛ2ųཞƖ/{EX}")
+    shutil.rmtree(f"DevilxTelegraph/{EX}")
 except Exception:
     pass
 idle()
