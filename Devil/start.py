@@ -24,7 +24,7 @@ joinButton = InlineKeyboardMarkup([
 async def start(_, ryui: Message):
     user_and_chats = ryui.from_user.first_name
     await ryui.reply_photo(
-        "https://telegra.ph/file/e26f9a6f0082b4171b6ef.jpg",
+        "https://graph.org/file/b609a772e749668d82661.jpg",
         reply_markup=joinButton,
         caption=f"""╰☆☆••| 𝗜𝗺𝗮𝗴𝗲 𝟮 𝗨𝗥𝗟 |••☆☆╮
             𝐇𝐨𝐰𝐝𝐲 **__`{user_and_chats}`__**,
