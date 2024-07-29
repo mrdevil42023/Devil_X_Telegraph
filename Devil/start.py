@@ -9,14 +9,14 @@ from pyrogram import Client, filters
 
 joinButton = InlineKeyboardMarkup([
     [InlineKeyboardButton(
-        "🚀『 𝐆𝐫𝐨𝐮𝐩 』",
-        url="https://t.me/Krakns")],
+        "😈𝙾𝙽𝚆𝙴𝚁😈",
+        url="http://t.me/mrdevil12")],
     [InlineKeyboardButton(
-        "🍤『 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』",
-        url="https://t.me/KrakinzLab")],
+        "🔥𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻🔥",
+        url="https://t.me/devilbots971")],
     [InlineKeyboardButton(
-        "🍤『 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』",
-        url="https://t.me/KrakinzLab")],
+        "🔥𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿🔥",
+        url="https://t.me/devilbotsupport")],
 ])
 
 
