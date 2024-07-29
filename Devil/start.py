@@ -26,7 +26,7 @@ async def start(_, ryui: Message):
     await ryui.reply_photo(
         "https://graph.org/file/b609a772e749668d82661.jpg",
         reply_markup=joinButton,
-        caption=f"""𝐇𝐄𝐘 𝐈𝐀𝐌 𝐃𝐄𝐕𝐈𝐋 𝐗 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐏𝐇
+        caption=f"""𝐈𝐀𝐌 𝐃𝐄𝐕𝐈𝐋 𝐗 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐏𝐇
             𝐇𝐎𝐖 𝐀𝐑𝐄 𝐘𝐎𝐔 **__`{user_and_chats}`__**,
            
 🏷 ɪᴍᴀɢᴇ ᴛᴏ ᴜʀʟ ʙᴏᴛ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴛʜᴇꜱᴇ ʙᴇʟᴏᴡ ꜰɪʟᴇ ᴛʏᴘᴇꜱ ᴛᴏ [ᴛᴇʟᴇɢʀᴀᴘʜ](https://pypi.org/project/telegraph/) ᴜʀʟ.
