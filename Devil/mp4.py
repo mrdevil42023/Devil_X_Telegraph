@@ -29,7 +29,7 @@ async def getdocument(client, message):
         return
     await vid.edit_text(
         text=f"""<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n🖥 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 [𝙈𝙍 𝘿𝙀𝙑𝙄𝙇](http://t.me/mrdevil12)
-𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻  [𝘿𝙀𝙑𝙄𝙇 𝘽𝙊𝙏'𝙎](https://t.me/devilbots971)""")""",
+𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻  [𝘿𝙀𝙑𝙄𝙇 𝘽𝙊𝙏'𝙎](https://t.me/devilbots971)""",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([[
             InlineKeyboardButton(
