@@ -28,6 +28,5 @@ _**𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 [[𝘿𝙀𝙑𝙄𝙇 
 _**𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 [[𝘿𝙚𝙫𝙞𝙡 𝘽𝙤𝙩 𝙎𝙪𝙥𝙥𝙤𝙧𝙩](https://t.me/devilbotsupport))**_
 
 
-<b>❤️ 𝗗𝗢𝗡𝗔𝗧𝗘 𝗠𝗘 ❤️<b>
-
-<p href="https://buymeacoffee.com/mrdevil"> <img src="https://img.shields.io/badge/Buy%20Me A Coffee-white?style=for-the-badge&logo=buy me a coffee" width="220" height="38.45"/></a></p>
+ ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrdevil)
